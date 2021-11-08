@@ -34,13 +34,14 @@ use with caution!!!
 
 # Details
 
-```_Extremly dark midnight_
+```
+Extremly dark midnight
 Code: Barely visable | Text : Text? Were?
 Ranking: 2 | Dev rating: 1.5/5```
 -----------------------------------------
-```_Whoops spilled my coffe_
+Whoops spilled my coffe
 Code: Cold be better | Text : Coffee go away please
-Ranking: 3 | Dev rating: 3.75/5```
+Ranking: 3 | Dev rating: 3.75/5
 -----------------------------------------
 
 Better explaination of how to apply soon!
