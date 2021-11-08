@@ -15,6 +15,14 @@ use with caution!!!
 
 ``` Replace the files with the files in “theme {num}” and reload vs code and activate the theme ```
 
+# Themes included 
+
+1. Extremly Dark mightnight
+2. Woops spilled my coffee
+3. Pink void 
+4. Comfy evening
+5. Winter morning
+
 
 
 
