@@ -36,13 +36,26 @@ use with caution!!!
 
 ```
 Extremly dark midnight
-Code: Barely visable | Text : Text? Were?
-Ranking: 2 | Dev rating: 1.5/5```
+Code: Barely visable | Text: Text? Were?
+Ranking: 2 | Dev rating: 1.5/5
 -----------------------------------------
 Whoops spilled my coffe
-Code: Cold be better | Text : Coffee go away please
+Code: Could be better | Text: Coffee go away please
 Ranking: 3 | Dev rating: 3.75/5
 -----------------------------------------
+Pink void
+Code: MY EYES HELP | Text: OH NO HELP NOOOOO
+Ranking: 1 | Dev rating: 1/5
+-----------------------------------------
+Comfy evening
+Code: Bit dark but readable | Text: okay but not very visable
+Ranking: 4 | Dev rating: 3/5
+-----------------------------------------
+Winter morning
+Code: visable | Text: yeep I see it
+Ranking: 5 | Dev rating: 4/5
+-----------------------------------------
+```
 
 Better explaination of how to apply soon!
 
