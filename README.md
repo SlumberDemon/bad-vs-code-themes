@@ -4,7 +4,7 @@ use with caution!!!
 
 # How to apply 
 
-``` Copy files in a folder and drag and drop ```
+``` Copy theme files of choice ```
 
 
 ``` Then go to ~/.vscode/extensions (Mac) or were your extensions get stored ```
