@@ -1,0 +1,28 @@
+{
+	"name": "theme",
+	"displayName": "theme",
+	"description": "Dark theme",
+	"version": "0.0.1",
+	"publisher": "SlumberDemon",
+	"engines": {
+		"vscode": "^1.46.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "e9600c1a-a380-4a4b-b00a-5a444d51edd9",
+		"publisherId": "41b58520-1463-4b3c-aced-4e25d08aa229",
+		"publisherDisplayName": "SlumberDemon",
+		"installedTimestamp": 1636357945871
+	}
+}
