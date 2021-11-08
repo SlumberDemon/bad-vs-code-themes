@@ -17,7 +17,7 @@ use with caution!!!
 
 # Themes included 
 
-1. Extremly Dark mightnight
+1. Extremly Dark midnight
 2. Woops spilled my coffee
 3. Pink void 
 4. Comfy evening
