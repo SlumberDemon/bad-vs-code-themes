@@ -17,12 +17,30 @@ use with caution!!!
 
 # Themes included 
 
-1. Extremly Dark midnight
+1. Extremly dark midnight
 2. Woops spilled my coffee
 3. Pink void 
 4. Comfy evening
 5. Winter morning
 
+# Crappy rankings
+1 the worst etc.
+
+1. Pink void
+2. Extremly dark midnight
+3. Woops spilled my coffe
+4. Comfy evening
+5. Winter morning
+
+# Details
+
+```_Extremly dark midnight_
+Code: Barely visable | Text : Text? Were?
+Ranking: 2 | Dev rating: 1.5/5```
+-----------------------------------------
+```_Whoops spilled my coffe_
+Code: Cold be better | Text : Coffee go away please
+Ranking: 3 | Dev rating: 3.75/5```
 -----------------------------------------
 
 Better explaination of how to apply soon!
