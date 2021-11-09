@@ -22,15 +22,17 @@ use with caution!!!
 3. Pink void 
 4. Comfy evening
 5. Winter morning
+6. 9Tea's theme
 
 # Crappy rankings
 1 the worst etc.
 
 1. Pink void
 2. Extremly dark midnight
-3. Woops spilled my coffe
-4. Comfy evening
-5. Winter morning
+3. 9Tea's theme
+4. Woops spilled my coffe
+5. Comfy evening
+6. Winter morning
 
 # Details
 
@@ -41,19 +43,23 @@ Ranking: 2 | Dev rating: 1.5/5
 -----------------------------------------
 Whoops spilled my coffe
 Code: Could be better | Text: Coffee go away please
-Ranking: 3 | Dev rating: 3.75/5
+Ranking: 4 | Dev rating: 3.75/5
 -----------------------------------------
 Pink void
 Code: MY EYES HELP | Text: OH NO HELP NOOOOO
-Ranking: 1 | Dev rating: 1/5
+Ranking: 1 | Dev rating: 0/5
 -----------------------------------------
 Comfy evening
 Code: Bit dark but readable | Text: okay but not very visable
-Ranking: 4 | Dev rating: 3/5
+Ranking: 5 | Dev rating: 3/5
 -----------------------------------------
 Winter morning
 Code: visable | Text: yeep I see it
-Ranking: 5 | Dev rating: 4/5
+Ranking: 6 | Dev rating: 4/5
+-----------------------------------------
+9Tea's theme
+Code: um yes... ig | Text: no just no
+Ranking: 6 | Dev rating: 1/5
 -----------------------------------------
 ```
 
