@@ -24,7 +24,7 @@ use with caution!!!
 5. Winter morning
 6. 9Tea's theme
 
-# Crappy rankings
+# Bad rankings
 1 the worst etc.
 
 1. Pink void
@@ -62,7 +62,5 @@ Code: um yes... ig | Text: no just no
 Ranking: 6 | Dev rating: 1/5
 -----------------------------------------
 ```
-
-Better explaination of how to apply soon!
 
 
